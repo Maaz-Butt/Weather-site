@@ -17,4 +17,4 @@ The weather app also provides atmospheric pressure, weather conditions, visibili
 
 ## Project Preview:
 
-[Click the Button](https://mian-ali.github.io/Weather-App/)
+[Click the Button](https://maaz-butt.github.io/Weather-site/)
